@@ -1,12 +1,19 @@
-- 👋 Olá, sou @Dev-Nana
-- 👀 Estou interessado em...
-- 🌱 Estou aprendendo atualmente...
-- ?? ️ Estou querendo colaborar em...
-- 📫 Como me alcançar...
-- 😄 Pronomos:...
-- ⚡ Curiosidade:...
+# Olá, sou @Dev-Nana! 👋
 
-<!---
-Dev-Nana/Dev-Nana é um repositório ✨ especial porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
-Você pode clicar no link Visualizar para dar uma olhada em suas alterações.
---->
+Bem-vindo ao meu perfil!
+
+## Sobre Mim
+
+- 👀 **Interesses:** Desenvolvimento Web, programação em Python, React e desafios lógicos.
+- 🌱 **Aprendendo Atualmente:** Novidades em React e técnicas avançadas de programação.
+- 🤝 **Colaborações:** Sempre aberta a colaborar em projetos de código aberto, especialmente aqueles que envolvem soluções criativas e desafios técnicos.
+- 📫 **Como me Encontrar:** [Email](evylaveras@gmail.com) | [Instagram](https://www.instagram.com/evylaveras/)
+- 😄 **Pronomes:** Ela/dela
+- ⚡ **Curiosidade:** Sou apaixonada por desafios matemáticos e lógicos. No tempo livre, gosto de experimentar novas tecnologias e de praticar esportes.
+
+## Tecnologias e Linguagens
+
+- 💻 **Linguagens Usadas Aqui:** JavaScript, PHP
+- 🌐 **Frameworks e Bibliotecas:** React, Bootstrap
+- 🛠️ **Ferramentas e Tecnologias:** Node.js, XAMPP, MySQL
+
