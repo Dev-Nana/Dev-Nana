@@ -1,4 +1,4 @@
-<img width=90% src="https://capsule-render.vercel.app/api?type=waving&height=80&color=7f03fc&descAlign=100&descAlignY=100"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=80&color=7f03fc&descAlign=100&descAlignY=100"/>
 
 ## 💫 About Me:
 🔭 Trabalhando<br>🎓 Estudando Redes de Computadores - UFC<br>🌐 Desenvolvendo projetos Full-Stack<br>
